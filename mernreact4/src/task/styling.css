@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+
+ table {
+    border:1px solid #111;
+    border-spacing: 3px;
+    margin-left: 10px;
+    border-collapse: collapse;
+}
+table tr td{
+    border:1px solid black;
+    width: 230px;
+    text-align: center;
+    height: 60px;
+    background-color: #c7eaf1;
+
+} 
+
+.color{
+    background-color: #bfe6cf;
+    height: 10px;
+}
